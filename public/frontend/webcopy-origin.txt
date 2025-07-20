@@ -1,0 +1,868 @@
+Uri: https://apexcharts.com/samples/assets/irregular-data-series.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\samples\assets\irregular-data-series.js
+Content Type: application/javascript
+
+Uri: https://baston.laborasyon.com/assets/css/app.min.css
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\css\app.min.css
+Content Type: text/css
+
+Uri: https://baston.laborasyon.com/assets/js/app.min.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\app.min.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/charts/apex.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\charts\apex.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/charts/justgage.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\charts\justgage.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/charts/peity.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\charts\peity.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/clockpicker.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\clockpicker.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/colorpicker.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\colorpicker.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/datatable.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\datatable.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/datepicker.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\datepicker.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/file-manager.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\file-manager.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/form-validation.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\form-validation.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/form-wizard.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\form-wizard.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/fullcalendar.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\fullcalendar.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/google-map.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\google-map.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/input-mask.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\input-mask.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/lightbox.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\lightbox.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/mail.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\mail.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/nestable.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\nestable.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/pages/analytics-dashboard.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\pages\analytics-dashboard.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/pages/calendar.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\pages\calendar.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/pages/chat.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\pages\chat.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/pages/ecommerce-dashboard.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\pages\ecommerce-dashboard.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/pages/form-repeater.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\pages\form-repeater.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/pages/gallery.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\pages\gallery.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/pages/helpdesk-dashboard.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\pages\helpdesk-dashboard.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/pages/orders.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\pages\orders.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/pages/product-detail.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\pages\product-detail.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/pages/product-list.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\pages\product-list.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/pages/user-list.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\pages\user-list.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/range-slider.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\range-slider.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/select2.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\select2.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/slick.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\slick.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/sweet-alert.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\sweet-alert.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/tagsinput.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\tagsinput.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/toast.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\toast.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/todo-list.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\todo-list.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/tour.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\tour.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/js/examples/vmap.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\js\examples\vmap.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/assets/media/image/favicon.png
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\favicon.png
+Content Type: image/png
+
+Uri: https://baston.laborasyon.com/assets/media/image/google_play_button.png
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\google_play_button.png
+Content Type: image/png
+
+Uri: https://baston.laborasyon.com/assets/media/image/image1.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\image1.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/image/logo/dark-logo.png
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\logo\dark-logo.png
+Content Type: image/png
+
+Uri: https://baston.laborasyon.com/assets/media/image/logo/logo.png
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\logo\logo.png
+Content Type: image/png
+
+Uri: https://baston.laborasyon.com/assets/media/image/logo/small-dark-logo.png
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\logo\small-dark-logo.png
+Content Type: image/png
+
+Uri: https://baston.laborasyon.com/assets/media/image/logo/small-logo.png
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\logo\small-logo.png
+Content Type: image/png
+
+Uri: https://baston.laborasyon.com/assets/media/image/notification-icon.png
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\notification-icon.png
+Content Type: image/png
+
+Uri: https://baston.laborasyon.com/assets/media/image/photo1.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\photo1.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/image/photo10.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\photo10.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/image/photo3.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\photo3.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/image/photo4.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\photo4.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/image/photo5.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\photo5.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/image/photo6.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\photo6.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/image/photo7.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\photo7.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/image/photo8.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\photo8.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/image/photo9.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\photo9.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/image/portfolio-five.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\portfolio-five.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/image/portfolio-four.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\portfolio-four.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/image/portfolio-one.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\portfolio-one.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/image/portfolio-six.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\portfolio-six.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/image/portfolio-three.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\portfolio-three.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/image/portfolio-two.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\portfolio-two.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/image/products/product1.png
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\products\product1.png
+Content Type: image/png
+
+Uri: https://baston.laborasyon.com/assets/media/image/products/product10.png
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\products\product10.png
+Content Type: image/png
+
+Uri: https://baston.laborasyon.com/assets/media/image/products/product2.png
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\products\product2.png
+Content Type: image/png
+
+Uri: https://baston.laborasyon.com/assets/media/image/products/product3.png
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\products\product3.png
+Content Type: image/png
+
+Uri: https://baston.laborasyon.com/assets/media/image/products/product4.png
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\products\product4.png
+Content Type: image/png
+
+Uri: https://baston.laborasyon.com/assets/media/image/products/product5.png
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\products\product5.png
+Content Type: image/png
+
+Uri: https://baston.laborasyon.com/assets/media/image/products/product6.png
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\products\product6.png
+Content Type: image/png
+
+Uri: https://baston.laborasyon.com/assets/media/image/products/product7.png
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\products\product7.png
+Content Type: image/png
+
+Uri: https://baston.laborasyon.com/assets/media/image/products/product8.png
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\products\product8.png
+Content Type: image/png
+
+Uri: https://baston.laborasyon.com/assets/media/image/products/product9.png
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\products\product9.png
+Content Type: image/png
+
+Uri: https://baston.laborasyon.com/assets/media/image/user/man_avatar1.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\user\man_avatar1.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/image/user/man_avatar2.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\user\man_avatar2.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/image/user/man_avatar3.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\user\man_avatar3.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/image/user/man_avatar4.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\user\man_avatar4.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/image/user/man_avatar5.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\user\man_avatar5.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/image/user/women_avatar1.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\user\women_avatar1.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/image/user/women_avatar2.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\user\women_avatar2.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/image/user/women_avatar3.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\user\women_avatar3.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/image/user/women_avatar4.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\user\women_avatar4.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/image/user/women_avatar5.jpg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\image\user\women_avatar5.jpg
+Content Type: image/jpeg
+
+Uri: https://baston.laborasyon.com/assets/media/svg/empty_chat.svg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\svg\empty_chat.svg
+Content Type: image/svg+xml
+
+Uri: https://baston.laborasyon.com/assets/media/svg/mean_at_work.svg
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\assets\media\svg\mean_at_work.svg
+Content Type: image/svg+xml
+
+Uri: https://baston.laborasyon.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://baston.laborasyon.com/demos/default/404.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\404.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/503.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\503.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/accordion.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\accordion.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/advanced-forms.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\advanced-forms.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/alert.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\alert.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/analytics-dashboard.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\analytics-dashboard.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/apexchart.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\apexchart.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/avatar.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\avatar.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/basic-cards.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\basic-cards.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/basic-forms.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\basic-forms.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/basic-tables.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\basic-tables.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/blank-page.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\blank-page.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/buttons.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\buttons.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/calendar.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\calendar.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/chat.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\chat.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/colorpicker.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\colorpicker.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/colors.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\colors.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/custom-forms.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\custom-forms.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/dataTable.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\dataTable.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/datepicker.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\datepicker.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/divider.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\divider.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/dropdown.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\dropdown.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/ecommerce-dashboard.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\ecommerce-dashboard.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/email-template-alert.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\email-template-alert.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/email-template-basic.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\email-template-basic.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/email-template-billing.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\email-template-billing.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/file-manager.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\file-manager.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/file-upload.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\file-upload.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/form-repeater.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\form-repeater.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/form-validation.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\form-validation.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/form-wizard.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\form-wizard.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/gallery.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\gallery.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/google-map.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\google-map.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/helpdesk-dashboard.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\helpdesk-dashboard.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/icons.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\icons.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/image-cards.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\image-cards.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/index.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\index.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/invoice.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\invoice.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/justgage.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\justgage.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/lightbox.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\lightbox.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/list-group.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\list-group.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/login.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\login.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/mail.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\mail.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/mean-at-work.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\mean-at-work.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/media-object.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\media-object.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/modal.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\modal.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/navs.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\navs.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/nestable.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\nestable.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/orders.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\orders.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/other-cards.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\other-cards.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/pagination.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\pagination.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/peity.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\peity.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/popovers.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\popovers.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/pricing-table-2.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\pricing-table-2.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/pricing-table.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\pricing-table.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/product-detail.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\product-detail.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/product-list.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\product-list.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/profile.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\profile.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/progress.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\progress.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/recovery-password.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\recovery-password.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/register.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\register.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/responsive-tables.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\responsive-tables.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/scrollable-cards.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\scrollable-cards.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/search-result.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\search-result.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/slick-slide.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\slick-slide.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/spinners.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\spinners.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/sweet-alert.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\sweet-alert.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/tab.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\tab.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/timeline.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\timeline.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/timepicker.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\timepicker.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/toast.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\toast.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/todo-list.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\todo-list.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/tooltip.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\tooltip.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/tour.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\tour.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/typography.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\typography.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/user-edit.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\user-edit.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/user-list.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\user-list.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/demos/default/vector-map.html
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\demos\default\vector-map.html
+Content Type: text/html
+
+Uri: https://baston.laborasyon.com/vendors/bundle.css
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\bundle.css
+Content Type: text/css
+
+Uri: https://baston.laborasyon.com/vendors/bundle.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\bundle.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/charts/apex/apexcharts.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\charts\apex\apexcharts.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/charts/apex/apexcharts.min.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\charts\apex\apexcharts.min.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/charts/justgage/justgage.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\charts\justgage\justgage.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/charts/justgage/raphael-2.1.4.min.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\charts\justgage\raphael-2.1.4.min.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/charts/peity/jquery.peity.min.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\charts\peity\jquery.peity.min.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/circle-progress/circle-progress.min.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\circle-progress\circle-progress.min.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/clockpicker/bootstrap-clockpicker.min.css
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\clockpicker\bootstrap-clockpicker.min.css
+Content Type: text/css
+
+Uri: https://baston.laborasyon.com/vendors/clockpicker/bootstrap-clockpicker.min.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\clockpicker\bootstrap-clockpicker.min.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/colorpicker/css/bootstrap-colorpicker.min.css
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\colorpicker\css\bootstrap-colorpicker.min.css
+Content Type: text/css
+
+Uri: https://baston.laborasyon.com/vendors/colorpicker/js/bootstrap-colorpicker.min.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\colorpicker\js\bootstrap-colorpicker.min.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/dataTable/datatables.min.css
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\dataTable\datatables.min.css
+Content Type: text/css
+
+Uri: https://baston.laborasyon.com/vendors/dataTable/datatables.min.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\dataTable\datatables.min.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/datepicker/daterangepicker.css
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\datepicker\daterangepicker.css
+Content Type: text/css
+
+Uri: https://baston.laborasyon.com/vendors/datepicker/daterangepicker.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\datepicker\daterangepicker.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/dropzone/dropzone.css
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\dropzone\dropzone.css
+Content Type: text/css
+
+Uri: https://baston.laborasyon.com/vendors/dropzone/dropzone.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\dropzone\dropzone.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/enjoyhint/enjoyhint.css
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\enjoyhint\enjoyhint.css
+Content Type: text/css
+
+Uri: https://baston.laborasyon.com/vendors/enjoyhint/enjoyhint.min.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\enjoyhint\enjoyhint.min.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/form-wizard/jquery.steps.css
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\form-wizard\jquery.steps.css
+Content Type: text/css
+
+Uri: https://baston.laborasyon.com/vendors/form-wizard/jquery.steps.min.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\form-wizard\jquery.steps.min.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/fullcalendar/fullcalendar.min.css
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\fullcalendar\fullcalendar.min.css
+Content Type: text/css
+
+Uri: https://baston.laborasyon.com/vendors/fullcalendar/fullcalendar.min.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\fullcalendar\fullcalendar.min.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/fullcalendar/moment.min.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\fullcalendar\moment.min.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/input-mask/jquery.mask.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\input-mask\jquery.mask.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/jquery.isotope.min.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\jquery.isotope.min.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/jquery.repeater.min.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\jquery.repeater.min.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/lightbox/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\lightbox\jquery.magnific-popup.min.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/lightbox/magnific-popup.css
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\lightbox\magnific-popup.css
+Content Type: text/css
+
+Uri: https://baston.laborasyon.com/vendors/nestable/jquery.nestable.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\nestable\jquery.nestable.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/nestable/nestable.css
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\nestable\nestable.css
+Content Type: text/css
+
+Uri: https://baston.laborasyon.com/vendors/prism/prism.css
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\prism\prism.css
+Content Type: text/css
+
+Uri: https://baston.laborasyon.com/vendors/prism/prism.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\prism\prism.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/quill/quill.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\quill\quill.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/quill/quill.snow.css
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\quill\quill.snow.css
+Content Type: text/css
+
+Uri: https://baston.laborasyon.com/vendors/range-slider/css/ion.rangeSlider.min.css
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\range-slider\css\ion.rangeSlider.min.css
+Content Type: text/css
+
+Uri: https://baston.laborasyon.com/vendors/range-slider/js/ion.rangeSlider.min.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\range-slider\js\ion.rangeSlider.min.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/select2/css/select2.min.css
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\select2\css\select2.min.css
+Content Type: text/css
+
+Uri: https://baston.laborasyon.com/vendors/select2/js/select2.min.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\select2\js\select2.min.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/slick/slick-theme.css
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\slick\slick-theme.css
+Content Type: text/css
+
+Uri: https://baston.laborasyon.com/vendors/slick/slick.css
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\slick\slick.css
+Content Type: text/css
+
+Uri: https://baston.laborasyon.com/vendors/slick/slick.min.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\slick\slick.min.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/tagsinput/bootstrap-tagsinput.css
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\tagsinput\bootstrap-tagsinput.css
+Content Type: text/css
+
+Uri: https://baston.laborasyon.com/vendors/tagsinput/bootstrap-tagsinput.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\tagsinput\bootstrap-tagsinput.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/vmap/jquery.vmap.min.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\vmap\jquery.vmap.min.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/vmap/jqvmap.min.css
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\vmap\jqvmap.min.css
+Content Type: text/css
+
+Uri: https://baston.laborasyon.com/vendors/vmap/maps/jquery.vmap.canada.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\vmap\maps\jquery.vmap.canada.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/vmap/maps/jquery.vmap.usa.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\vmap\maps\jquery.vmap.usa.js
+Content Type: text/javascript
+
+Uri: https://baston.laborasyon.com/vendors/vmap/maps/jquery.vmap.world.js
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\vendors\vmap\maps\jquery.vmap.world.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;500;600&display=swap
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/firasans/v17/va9B4kDNxMZdWfMOD5VnSKzuQQ.ttf
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\s\firasans\v17\va9B4kDNxMZdWfMOD5VnSKzuQQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v17/va9B4kDNxMZdWfMOD5VnZKvuQQ.ttf
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\s\firasans\v17\va9B4kDNxMZdWfMOD5VnZKvuQQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v17/va9E4kDNxMZdWfMOD5VfkA.ttf
+File Name: C:\Downloaded Web Sites\baston.laborasyon.com\s\firasans\v17\va9E4kDNxMZdWfMOD5VfkA.ttf
+Content Type: font/ttf
+
